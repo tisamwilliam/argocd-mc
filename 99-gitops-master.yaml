@@ -5,6 +5,7 @@ metadata:
     app.kubernetes.io/instance: machine-config
     machineconfiguration.openshift.io/role: master
   name: 99-gitops-master
+  resourceVersion: '83507646'
 spec:
   config:
     ignition:
