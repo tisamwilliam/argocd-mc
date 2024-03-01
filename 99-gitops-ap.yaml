@@ -4,7 +4,6 @@ metadata:
   labels:
     machineconfiguration.openshift.io/role: ap
   name: 99-gitops-ap
-  resourceVersion: "83473647"
 spec:
   config:
     ignition:
