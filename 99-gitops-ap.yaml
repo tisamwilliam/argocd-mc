@@ -12,7 +12,7 @@ spec:
       files:
       - contents:
           compression: ""
-          source: data:text/plain;charset=utf-8;base64,OTktenoK
+          source: data:text/plain;charset=utf-8;base64,aGVsbG8gd29ybGQ=
         mode: 420
         overwrite: true
         path: /etc/william-test
