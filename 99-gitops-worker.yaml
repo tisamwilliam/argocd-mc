@@ -34,3 +34,9 @@ spec:
         mode: 420
         overwrite: true
         path: /etc/bashrc
+      - contents:
+          compression: ""
+          source: data:text/plain;charset=utf-8;base64,NjY2Cg==
+        mode: 420
+        overwrite: true
+        path: /etc/william-test
